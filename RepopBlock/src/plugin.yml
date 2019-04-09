@@ -1,0 +1,9 @@
+main: com.gmail.cactuscata.BlockBreak
+author: CactusCata
+version: 1.0.1
+name: RepopBlock
+commands:
+    repopblock:
+        description: Permet de reload le fichier de config
+        permission: repopblock.reload
+        usage: /<command> [valeur]
